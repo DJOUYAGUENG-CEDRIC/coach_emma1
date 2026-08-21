@@ -37,6 +37,11 @@ Code promo unique : TPXA
 Ce code DOIT être entré au moment de l'inscription. Il est impossible de l'ajouter
 une fois le compte créé, quelle que soit la raison invoquée.
 
+-- 1XBET --
+Lien d'inscription : https://reffpa.com/L?tag=d_5869757m_1599c_&site=5869757&ad=1599
+Emplacement du code promo : champ "Code promo" visible dans le formulaire d'inscription,
+  avant la validation finale.
+
 -- BETWINNER (recommandé en priorité) --
 Lien d'inscription : https://bwredir.com/34ov?p=%2Fregistration%2F&s1=TPXA
 Emplacement du code promo : champ "Code promo" ou "Code bonus" visible dans le formulaire
@@ -50,7 +55,7 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
 
 === GUIDE D'INSCRIPTION ÉTAPE PAR ÉTAPE ===
 
-Étape 1 : Cliquer sur le lien officiel du bookmaker choisi (Betwinner ou Melbet).
+Étape 1 : Cliquer sur le lien officiel du bookmaker choisi (1xbet, Betwinner ou Melbet).
 Étape 2 : Choisir la méthode d'inscription (numéro de téléphone ou e-mail recommandé).
 Étape 3 : Renseigner ses informations personnelles (nom, prénom, date de naissance,
            numéro de téléphone ou e-mail, pays, devise).
@@ -82,6 +87,8 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
   → Solution : s'inscrire avec une adresse e-mail à la place du numéro.
 
 -- Champ code promo introuvable --
+• 1xbet : chercher le champ "Code promo" dans le formulaire d'inscription, avant la
+  validation finale.
 • Betwinner : chercher le champ "Code promo" ou "Code bonus" dans le formulaire
   d'inscription, avant la validation finale.
 • Melbet : appuyer sur le texte "J'ai un code promo" pour afficher le champ.
@@ -127,6 +134,27 @@ téléphone directement depuis l'application, sans passer par une capture d'écr
 Si l'abonné ne voit pas d'icône de téléchargement, c'est probablement qu'aucun coupon
 actif ne lui a encore été envoyé dans la conversation — il doit d'abord demander le
 coupon du jour.
+
+
+=== CHARGER LE COUPON SUR LE BOOKMAKER (CODE DU COUPON) ===
+
+Ne pas confondre avec le téléchargement de l'image ci-dessus. Chaque coupon publié par
+l'équipe a aussi un CODE DU COUPON (booking code), différent du code promo TPXA : c'est
+le code propre à ce coupon, permettant de recharger automatiquement toute la sélection de
+paris sur le bookmaker. Ce code est toujours indiqué dans la description du coupon actif.
+
+Conditions pour l'utiliser :
+1. Être inscrit sur le bookmaker concerné avec le code promo TPXA.
+2. Avoir effectué le dépôt minimum (5 $ ou 3000 fcfa).
+
+Pour charger le coupon une fois ces conditions remplies :
+1. Ouvrir l'application ou le site du bookmaker et se connecter à son compte.
+2. Aller dans la section "Mes paris" / "Coupons" et chercher le champ "Charger un coupon"
+   (parfois appelé "Bet ID" ou "Numéro de coupon" selon le bookmaker).
+3. Coller le code du coupon (voir la description du coupon actif) puis valider.
+4. La sélection de paris se charge automatiquement, prête à être validée pour le pari.
+Si le champ n'est pas visible, essayer un autre navigateur ou vérifier que l'application
+est à jour.
 
 
 === RECOMMANDATION BOOKMAKER ===
