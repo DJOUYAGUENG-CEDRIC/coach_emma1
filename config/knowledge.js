@@ -7,7 +7,7 @@ sont OBLIGATOIRES, sans exception et sans dérogation possible :
 1. S'inscrire sur l'un de nos bookmakers partenaires via le lien officiel fourni,
    en entrant le code promo TPXA au moment de l'inscription (impossible à ajouter après).
 
-2. Effectuer un dépôt minimum de 5 $ ou 3000 fcfa (ou l'équivalent en monnaie locale) sur son
+2. Effectuer un dépôt minimum de 1 $ ou 500 fcfa (ou l'équivalent en monnaie locale) sur son
    compte bookmaker après l'inscription.
 
 Ces deux conditions sont cumulatives : l'une sans l'autre ne suffit pas.
@@ -22,7 +22,7 @@ Lien officiel    : https://whatsapp.com/channel/0029VbAh3OACcW4qTs8Ord3z
 Pour rejoindre la chaîne :
 - Ouvrir le lien ci-dessus sur WhatsApp
 - Appuyer sur "Suivre" ou "S'abonner"
-- Vérifier que les deux conditions (inscription + dépôt 5 $ ou 3000 fcfa) sont bien remplies
+- Vérifier que les deux conditions (inscription + dépôt 1 $ ou 500 fcfa) sont bien remplies
 
 Message d'invitation à utiliser (naturel, accrocheur) :
 "Pour avoir accès aux coupons grosse cote, score exact, FIFA et plein d'autres jeux,
@@ -62,7 +62,7 @@ Emplacement du code promo : cliquer sur le lien "J'ai un code promo" qui appara�
 Étape 4 : Entrer le code promo TPXA dans le champ prévu à cet effet
            AVANT de valider le formulaire (voir emplacements ci-dessus).
 Étape 5 : Valider l'inscription et confirmer son compte (SMS ou e-mail de confirmation).
-Étape 6 : Effectuer un dépôt minimum de 5 $ ou 3000 fcfa via Mobile Money (MTN, Orange, Moov)
+Étape 6 : Effectuer un dépôt minimum de 1 $ ou 500 fcfa via Mobile Money (MTN, Orange, Moov)
            ou tout autre moyen disponible.
 Étape 7 : Rejoindre la chaîne WhatsApp COACH EMMA via le lien officiel.
 
@@ -145,7 +145,7 @@ paris sur le bookmaker. Ce code est toujours indiqué dans la description du cou
 
 Conditions pour l'utiliser :
 1. Être inscrit sur le bookmaker concerné avec le code promo TPXA.
-2. Avoir effectué le dépôt minimum (5 $ ou 3000 fcfa).
+2. Avoir effectué le dépôt minimum (1 $ ou 500 fcfa).
 
 Pour charger le coupon une fois ces conditions remplies :
 1. Ouvrir l'application ou le site du bookmaker et se connecter à son compte.
@@ -166,5 +166,5 @@ Si un abonné demande quel bookmaker choisir, recommander Betwinner en priorité
 - Compatible Mobile Money dans la plupart des pays d'Afrique francophone
 
 Melbet reste une excellente alternative avec les mêmes conditions
-d'accès (code TPXA + dépôt minimum 5 $ ou 3000 fcfa).
+d'accès (code TPXA + dépôt minimum 1 $ ou 500 fcfa).
 `.trim();
