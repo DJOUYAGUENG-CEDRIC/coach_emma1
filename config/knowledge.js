@@ -115,6 +115,20 @@ Solution : contacter le support du bookmaker en expliquant la situation.
 • La vérification d'identité (KYC) est obligatoire avant tout premier retrait.
 
 
+=== TÉLÉCHARGER L'IMAGE D'UN COUPON ENVOYÉ DANS LE CHAT ===
+
+Quand un coupon est envoyé dans la conversation, l'abonné peut l'enregistrer sur son
+téléphone directement depuis l'application, sans passer par une capture d'écran :
+1. Sur la vignette du coupon dans le chat, une petite icône de téléchargement (⬇️) est
+   visible en bas à droite de l'image (à côté de l'icône loupe 🔍).
+2. Il suffit d'appuyer dessus pour télécharger l'image du coupon.
+3. En appuyant sur l'image elle-même, elle s'agrandit en plein écran ; une icône de
+   téléchargement (⬇️) est aussi disponible en haut à gauche dans cette vue agrandie.
+Si l'abonné ne voit pas d'icône de téléchargement, c'est probablement qu'aucun coupon
+actif ne lui a encore été envoyé dans la conversation — il doit d'abord demander le
+coupon du jour.
+
+
 === RECOMMANDATION BOOKMAKER ===
 
 Si un abonné demande quel bookmaker choisir, recommander Betwinner en priorité :

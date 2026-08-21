@@ -5,6 +5,7 @@ import Header from '@/components/Header';
 import ChatBubble from '@/components/ChatBubble';
 import AudioMessage from '@/components/AudioMessage';
 import PlatformsCard from '@/components/PlatformsCard';
+import QuickReplies from '@/components/QuickReplies';
 import ChatInput from '@/components/ChatInput';
 import { WELCOME_MESSAGE, AUDIO_URL } from '@/lib/config';
 import { sendMessage } from '@/services/chatApi';
@@ -71,6 +72,7 @@ export default function Home() {
       <main className="flex-1 overflow-y-auto min-h-0 px-3 py-4 space-y-3">
         <ChatBubble sender="assistant" text={WELCOME_MESSAGE} />
         <AudioMessage src={AUDIO_URL} />
+        <QuickReplies onSelect={handleSend} disabled={isLoading} />
 
         {messages.map((msg) => (
           <ChatBubble key={msg.id} sender={msg.sender} text={msg.text} coupons={msg.coupons} />
