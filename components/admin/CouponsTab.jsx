@@ -101,7 +101,7 @@ export default function CouponsTab() {
         <textarea
           value={description}
           onChange={(e) => setDescription(e.target.value)}
-          placeholder="Description du coupon (matchs, cotes, Code du coupon: XXXXX, etc.)"
+          placeholder="Commence par la catégorie (Score exact:, Cote de 500:, Poker:...), puis matchs, cotes, Code du coupon: XXXXX, etc."
           rows={3}
           required
           className="w-full px-3 py-2 rounded-xl text-sm outline-none resize-none"

@@ -3,6 +3,8 @@
 const QUESTIONS = [
   'Quel est le score exact du jour ?',
   'Comment télécharger le coupon ?',
+  'Je veux le coupon cote de 500 du jour',
+  'Je veux le coupon poker du jour',
 ];
 
 export default function QuickReplies({ onSelect, disabled }) {

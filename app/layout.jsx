@@ -4,7 +4,7 @@ export const metadata = {
   title: 'Coach Emma',
   description: 'Assistante pronostics sportifs — Code promo TPXA',
   icons: {
-    icon: '/logo.png',
+    icon: '/dembele.png',
   },
 };
 
